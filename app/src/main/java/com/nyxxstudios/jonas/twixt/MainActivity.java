@@ -34,6 +34,8 @@ public class MainActivity extends ActionBarActivity
             }
         }
 
+        //a comment for a test commit
+
         //set col and row of the fields?
         myGridLayout.getViewTreeObserver().addOnGlobalLayoutListener(
                 new OnGlobalLayoutListener(){
